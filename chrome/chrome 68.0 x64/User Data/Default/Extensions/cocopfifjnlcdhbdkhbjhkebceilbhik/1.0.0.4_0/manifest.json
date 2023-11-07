@@ -1,0 +1,23 @@
+{
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "icon2_grey.png",
+      "default_popup": "popup.htm"
+   },
+   "description": "Clear history, cookies and cache of a current incognito session while leaving all tabs open!",
+   "icons": {
+      "128": "appIcon_128.png",
+      "16": "appIcon_16.png",
+      "48": "appIcon_48.png"
+   },
+   "incognito": "split",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAigAtFucdBfiEUQ3ZJEdY7H+Ylr5p6iJtx+sbwYogfprZT9/YTExX70vRukUwLrwz3oWeiTLl0iWImU3Sm5mW6/V5WuleJLfhBYEZPWWl/amZN/pT8BKJ9z4Lc98+wj3xSgnLN/MvT6edwtxh+AK3K7Ei89Pl7kbg9lZAg8/4CbrzulOuLfg2lHBK99B1GAN8ERaw9jOWX5bPZ7Pt/bPGoo2ahToWiza832CJAzbd/edQyZXKxpFCZtnlIG+6NELS/zVi4Pj7TcTizNI2yQCQIfC9VK1aBAIy70B0Ry3evA6dgoXGsnHiARF26Jh93BPPWXaloYWQkMucw3XMJA5z/wIDAQAB",
+   "manifest_version": 2,
+   "name": "Incognito Mode Reset Button",
+   "permissions": [ "tabs", "browsingData" ],
+   "short_name": "Incognito Reset",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.0.4"
+}

@@ -1,0 +1,39 @@
+{
+   "checksum": "728cfa955b6a9ad806b1e00290962625",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13307997559194774",
+            "id": "5",
+            "meta_info": {
+               "last_visited_desktop": "13307997559195886"
+            },
+            "name": "Wormix",
+            "type": "url",
+            "url": "https://h147551.s24.test-hf.su/morozpvp/preloader.html?api_url=https://api.vk.com/api.php&api_id=1744756&api_settings=2100487&viewer_id=582896833&viewer_type=2&sid=vk1.a.LWEx-5j3YU97sksk0E2qd04fdkucW2tEuO6mYVCNGcR54cdZbzwuXcGRh_KewefxcSHBUpvpMdLK8fGzKd7HKT8B15op1DTPefWwXkZZN2WfrZ635AEXlA9W_VNRkiBd1FWAcsxsNK7BqNm5_-_JmHXMLGDCVBMGmn615rGp2JXUeugTID7lW4blLmeHb6Z7&secret=05e9595921&access_token=vk1.a.iYhh0h8gPGBr-ZQAokfRXZYI2L9KWWpOuJ3f84fXF5a6Rung5qeBAvuh0b5o8ofgghoHc-0vtZEPSBjmWG_JJ7v4DvcqvkSQ-NRaWI4MBwuPKrfIpyiBOLv70OfqIr9g9kaNAGejnxch3dnXbMxUOHMWskJf0GAyGj9zr2ASfWirk1g3THSI3Xer_QhOlceM&user_id=582896833&is_app_user=1&language=0&parent_language=0&is_secure=1&stats_hash=41bf95aabce86fd1b4&is_favorite=1&group_id=0&ads_app_id=1744756_a8c78424dd23b14066&access_token_settings=notify,friends,photos,menu,status,notes&referrer=unknown&lc_name=a742db3b&platform=web&is_widescreen=1&whitelist_scopes=friends,photos,video,stories,pages,status,notes,wall,docs,groups,stats,market,ads,notifications&group_whitelist_scopes=stories,photos,app_widget,messages,wall,docs,manage&auth_key=9abdb90561b4acc57bdabd0e3c653b5d&timestamp=1663519366&sign=SICFp_BdgyUtvs64zce9l8-oi9WeMquSe7EhZ-Yl_as&sign_keys=access_token,access_token_settings,ads_app_id,api_id,api_settings,api_url,auth_key,group_id,group_whitelist_scopes,is_app_user,is_favorite,is_secure,is_widescreen,language,lc_name,parent_language,platform,referrer,secret,sid,stats_hash,timestamp,user_id,viewer_id,viewer_type,whitelist_scopes&hash="
+         } ],
+         "date_added": "13307993776217414",
+         "date_modified": "13307997559194774",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13307993776217428",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13307993776217430",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
